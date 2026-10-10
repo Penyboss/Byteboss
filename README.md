@@ -15,6 +15,8 @@ chat platform, bot commands, or hosting setup has been defined here.
 
 - `README.md`: the project overview, current status, and open implementation
   questions.
+- [CONTRIBUTING.md](CONTRIBUTING.md): guidance for documentation changes and
+  evidence-backed FAQ proposals.
 
 ## Before implementation
 
@@ -47,4 +49,5 @@ should not be treated as a source of product information.
 Use the [issue tracker](https://github.com/Penyboss/Byteboss/issues) to discuss a
 specific question or improvement. Documentation corrections and evidence-backed
 FAQ proposals are useful starting points. Keep proposed functionality clearly
-separate from what the repository currently provides.
+separate from what the repository currently provides. See the
+[contribution guide](CONTRIBUTING.md) for the proposal format and review checklist.
